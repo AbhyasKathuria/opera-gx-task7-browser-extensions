@@ -1,0 +1,1 @@
+# opera-gx-task7-browser-extensions
